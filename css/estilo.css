@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color:rgb(88, 151, 86) ;
+}
+#navsup{
+    background-color: rgb(69, 170, 66);
+}
+
+.caixa {
+	padding: 60px 0;
+	border-bottom: 1px solid #e5e5e5;
+}
